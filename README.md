@@ -1,6 +1,4 @@
-Here's a simple and clear **README** for your project, following the reference style:  
 
----
 
 # 🚗 Accident Severity Analysis using Machine Learning 🚗  
 
